@@ -3,6 +3,7 @@ import RealEst from '../assets/projects/realestate.jpg'
 import Crypto from '../assets/projects/crypto.jpeg'
 import Air from '../assets/projects/Airbnb.png'
 import Shop from '../assets/projects/Shop.jpeg'
+import Netflix from '../assets/projects/netflix.jpeg'
 
 export const data=[
     {
@@ -16,21 +17,21 @@ export const data=[
         id:2,
         name:"Airbnb Clone",
         image:Air,
-        github:"",
-        live:"",
+        github:"https://github.com/Iankiguru/Airbnb-Clone/tree/master",
+       
     },
     {
         id:3,
         name:"Ecommerce App",
         image:Shop,
-        github:"",
-        live:"",
+        github:"https://github.com/Iankiguru/React-Redux-Ecommerce-App",
+       
     },
     {
         id:4,
         name:"React JS Application",
-        image:RealEst,
-        github:"",
+        image:Netflix,
+        github:"https://github.com/Iankiguru/Netflix-Clone",
         live:"",
     },
 
